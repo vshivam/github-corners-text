@@ -1,6 +1,6 @@
 # github-corners-text
 
-This is fork of the [Github Corners](https://github.com/tholman/github-corners) project and supports all the old features. 
+This is a fork of the [Github Corners](https://github.com/tholman/github-corners) project and supports all the old features. 
 
 # New features
 * Add text labels to your Github Corner. 
