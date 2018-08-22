@@ -8,7 +8,7 @@ This is a fork of the [Github Corners](https://github.com/tholman/github-corners
 * The octocat svg resizes to half it's original size on smaller screens.
 
 # See it in action 
-[http://shivamverma.info/2016/04/22/github-corner-text/](http://shivamverma.info/2016/04/22/github-corner-text/)
+[http://vshivam.github.io/2016/04/22/github-corner-text/](http://vshivam.github.io/2016/04/22/github-corner-text/)
 
 # Screenshot
 ![Screenshot](http://shivamverma.info/assets/extras/screenshot_github_corners.png)
