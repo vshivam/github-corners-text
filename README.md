@@ -11,7 +11,7 @@ This is a fork of the [Github Corners](https://github.com/tholman/github-corners
 [http://vshivam.github.io/2016/04/22/github-corner-text/](http://vshivam.github.io/2016/04/22/github-corner-text/)
 
 # Screenshot
-![Screenshot](http://shivamverma.info/assets/extras/screenshot_github_corners.png)
+![Screenshot](http://vshivam.github.io/assets/extras/screenshot_github_corners.png)
 
 # License 
 Released under the [MIT License](https://opensource.org/licenses/MIT)
